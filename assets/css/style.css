@@ -1,0 +1,52 @@
+body {      
+    background-color: #ba1d1d;
+  }
+
+  .container{
+      background-color:blue;
+      margin-top: 3%;
+      border: solid white;
+      padding-top: 1%;
+  }
+  li {
+    padding: 15px;
+    margin: 15px;
+    color: white;
+    list-style: none;
+  }
+
+  ul {
+	list-style: none;
+}
+
+h1 {
+	text-align: center;
+    color: white;
+    text-decoration: underline;
+}
+
+h2 {
+	text-align: center;
+    color: white;
+    text-decoration: underline;
+
+}
+
+.create-form {
+  padding: 15px;
+  margin: 15px;
+  text-align: center;
+  color: #daff00
+}
+
+.form-group {
+  margin-bottom: 25px;
+}
+
+.btn-primary {
+	border-radius: 15px;
+}
+
+hr{
+    border-color: #daff00;
+}
